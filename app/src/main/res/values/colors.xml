@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#E8472A</color>
+    <color name="primary_dark">#C73D22</color>
+    <color name="primary_light">#FF6B4A</color>
+    <color name="secondary">#FF8C42</color>
+
+    <!-- Background -->
+    <color name="background_light">#F8F5F2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Icons -->
+    <color name="gray_icon">#9CA3AF</color>
+    <color name="red_favorite">#E8472A</color>
+
+    <!-- Other -->
+    <color name="divider">#F3F4F6</color>
+    <color name="badge_bg">#E8472A</color>
+    <color name="timer_active">#10B981</color>
+</resources>

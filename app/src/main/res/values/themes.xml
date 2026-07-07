@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN THEME (FIXED) -->
+    <style name="Theme.RecipeApp"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/secondary</item>
+
+        <!-- Surface -->
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <!-- Status & Navigation bar -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Font -->
+        <item name="android:fontFamily">@font/poppins</item>
+
+    </style>
+
+    <!-- CHIP STYLE (FIXED FOR MATERIAL COMPONENTS) -->
+    <style name="RecipeChip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="android:textSize">12sp</item>
+        <item name="chipCornerRadius">20dp</item>
+        <item name="chipBackgroundColor">@color/background_light</item>
+        <item name="checkedIconVisible">false</item>
+    </style>
+
+</resources>
