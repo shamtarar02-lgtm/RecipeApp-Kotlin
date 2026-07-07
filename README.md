@@ -34,7 +34,7 @@ CookMate is a modern Android recipe application built with **Kotlin** in **Andro
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
