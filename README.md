@@ -36,17 +36,19 @@ CookMate is a modern Android recipe application built with **Kotlin** in **Andro
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 | Home Screen | Recipe Details |
-|:---:|:---:|
-| ![Home Screen](screenshots/home_screen.jpeg) | ![Recipe Details](screenshots/recipe_detail.jpeg) |
+|--------------|----------------|
+| ![Home Screen](home_screen.jpeg) | ![Recipe Details](recipe_detail.jpeg) |
 
 | Preparation Steps | Favorites |
-|:---:|:---:|
-| ![Preparation Steps](screenshots/preparation_steps.jpeg) | ![Favorites](screenshots/favorites.jpeg) |
+|-------------------|-----------|
+| ![Preparation Steps](preparation_steps.jpeg) | ![Favorites](favorites.jpeg) |
 
 | Cooking Timer |
-|:---:|
-| ![Cooking Timer](screenshots/cooking_timer.jpeg) |
+|---------------|
+| ![Cooking Timer](cooking_timer.jpeg) |
 
 ---
 
